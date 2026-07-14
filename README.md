@@ -7,7 +7,7 @@ weist der Region über Textur-UUIDs die 4 Oberflächenmaterialien zu und injizie
 direkt via C#-Code in die mathematische Welt, anstatt den Umweg über Ingame-LSL-Skripte zu gehen.
 Hier ist die vollständige, strukturierte Architektur und der C#-Code für ein solches vollautomatisches prozedurales OpenSim-Addon. [1] 
 
-<img src="https://github.com/ManfredAabye/opensimcurrencyserver-dotnet/blob/main/OpenSimCurrencyServerSmal.png" alt="Project Badge" width="450">
+<img src="https://raw.githubusercontent.com/ManfredAabye/OpenSim-Procedural-World/refs/heads/main/OpenSimForest.jpg" alt="Project Badge" width="450">
 
 ---
 
