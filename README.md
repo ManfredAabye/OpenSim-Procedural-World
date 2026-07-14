@@ -1,6 +1,5 @@
 # OpenSim Procedural World
 
-Das ist ein hervorragender und architektonisch sauberer Ansatz. `
 Durch die Nutzung eines INonSharedRegionModule klinkt sich das Addon direkt in den Lebenszyklus jeder einzelnen Region ein. [1, 2] 
 Da OpenSimulator intern auf einem Heightmap-System für das Terrain basiert (welches der Viewer dann als 3D-Mesh rendert), 
 manipuliert ein solches Modul den ITerrainChannel der Szene, 
