@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OpenSim.Framework">
+      <HintPath>path/to/opensim/bin/OpenSim.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSim.Region.Framework">
+      <HintPath>path/to/opensim/bin/OpenSim.Region.Framework.dll</HintPath>
+    </Reference>
+    <!-- Weitere OpenSim-Referenzen -->
+  </ItemGroup>
+</Project>
